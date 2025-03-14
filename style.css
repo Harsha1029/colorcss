@@ -1,0 +1,23 @@
+#red{
+    font-weight: normal;
+    color: red;
+}
+.name2{
+    font-weight: normal;
+    color: blue;
+}
+.size1{
+        shape-rendering: auto;
+        height: 200px;
+        width: 200px;
+    
+
+
+}
+.size2{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    font-family: 'Helvetica Neue','Helvetica',Arial,sans-ser,'Verdana',sans-serif;
+}
